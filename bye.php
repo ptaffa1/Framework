@@ -1,4 +1,4 @@
 <?php
 
 // framework/bye.php
-$response->setContent('Goodbye!');
+echo 'Goodbye!';
